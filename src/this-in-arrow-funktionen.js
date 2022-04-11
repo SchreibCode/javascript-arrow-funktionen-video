@@ -5,11 +5,11 @@ class Student {
 
     printNameNormalFunction() {
         setTimeout(function () {
-            console.log(`Normal`, this.name);
+            console.log("Normal", this.name);
         });
     }
 
     printNameArrowFunction() {
-        setTimeout(() => console.log(`Arrow`, this.name));
+        setTimeout(() => console.log("Arrow", this.name));
     }
 }

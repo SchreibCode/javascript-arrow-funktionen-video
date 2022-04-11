@@ -10,6 +10,6 @@ function getHours() {
     return new Date().getHours();
 }
 
-document.addEventListener(`click`, function () {
-    console.log(`Klick!`);
+document.addEventListener("click", function () {
+    console.log("Klick!");
 });
