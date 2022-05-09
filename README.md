@@ -1,4 +1,4 @@
-<img src="https://github.com/SchreibCode/javascript-arrow-funktionen-video/blob/main/img/javascript-arrow-funktionen.jpg" width="450" alt="Youtube Thumbnail"/>
+<img src="./img/javascript-arrow-funktionen.jpg" width="450" alt="Youtube Thumbnail"/>
 
 # JavaScript Arrow Funktionen
 
