@@ -2,7 +2,7 @@
 
 # JavaScript Arrow Funktionen
 
--   In diesem Repository findest du den Code zum Video: "Lern JavaScript Arrow Funktionen in 10min".
+-   In diesem Repository findest du den Code zum Video: "Lern Arrow Funktionen in 10 Minuten - Deutsches Tutorial".
 -   Falls du das Video noch nicht gesehen hast kannst du es hier:
     [Link zum Video](https://youtu.be/Zu9YeqQ-Avg) anschauen.
 
