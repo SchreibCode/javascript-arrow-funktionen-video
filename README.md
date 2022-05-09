@@ -1,17 +1,17 @@
-<img src="https://github.com/SchreibCode/<repository-name>/blob/main/img/<img-name>" width="450" alt="Youtube Thumbnail"/>
+<img src="https://github.com/SchreibCode/javascript-arrow-funktionen-video/blob/main/img/javascript-arrow-funktionen.jpg" width="450" alt="Youtube Thumbnail"/>
 
-# Thema
+# JavaScript Arrow Funktionen
 
-- In diesem Repository findest du den Code zum Video: "Videotitel".
-- Falls du das Video noch nicht gesehen hast kannst du es hier: 
-[Link zum Video](https://www.youtube.com) anschauen.
+-   In diesem Repository findest du den Code zum Video: "Lern JavaScript Arrow Funktionen in 10min".
+-   Falls du das Video noch nicht gesehen hast kannst du es hier:
+    [Link zum Video](https://youtu.be/Zu9YeqQ-Avg) anschauen.
 
 ## Wie kriege ich den Code?
 
-- Rechts oben ist ein grüner Button auf dem "Code" steht.
-- Drück da drauf und kopiere den HTTPS Link oder den SSH Link (Wenn du nicht weißt was SSH ist nimm den HTTPS Link)
-- Öffne die Kommandozeile auf deinem Computer und gib ein: ```git clone <der-kopierte-link>```
-- Jetzt wird das Repository auf deinen Rechner runtergeladen. 
+-   Rechts oben ist ein grüner Button auf dem "Code" steht.
+-   Drück da drauf und kopiere den HTTPS Link oder den SSH Link (Wenn du nicht weißt was SSH ist nimm den HTTPS Link)
+-   Öffne die Kommandozeile auf deinem Computer und gib ein: `git clone <der-kopierte-link>`
+-   Jetzt wird das Repository auf deinen Rechner runtergeladen.
 
 ## Es funktioniert nicht / Ich habe kein git
 
